@@ -21,7 +21,7 @@ Tested on clean debian 10.3 virtual machine
 		
 ## Runtime
 
-1. Edit splunk token in `fluentd-concentrator.conf`
+1. Edit splunk token and host in `fluentd-concentrator.conf`
 2. Open terminal with `./fluentd-concentrator`
 3. Open terminal with `./fluentd-containerengine`
 4. Run `./sendlog` to send a message to the container engine syslog
