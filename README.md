@@ -1,0 +1,1 @@
+# fluentd-cluster-example
