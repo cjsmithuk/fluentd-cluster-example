@@ -1,0 +1,2 @@
+#!/bin/bash
+logger --udp --port 10800 --server 127.0.0.1 "This is a test message"

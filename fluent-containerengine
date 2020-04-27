@@ -1,0 +1,2 @@
+#!/bin/bash
+fluentd --config ./fluent-containerengine.conf
